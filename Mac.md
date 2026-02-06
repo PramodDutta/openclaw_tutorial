@@ -19,3 +19,8 @@ https://www.firecrawl.dev/app/api-keys
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bf9d4e50-2bb4-4788-903d-5306f0e594df" />
+
+<img width="1993" height="972" alt="image" src="https://github.com/user-attachments/assets/b2181445-dec0-4f46-b0a3-36607f8e02fb" />
+
+
+
