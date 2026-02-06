@@ -1,3 +1,8 @@
+Build a 24/7 AI Testers Team with OpenClaw on Hostinger VPS
+
+Full Notes
+https://ecmwhmrgwc3b4.ok.kimi.link/
+
 1. curl -fsSL https://openclaw.ai/install.sh | bash
 2. openclaw onboard
 3. Create a FREE account here - https://www.kimi.com/kimiplus/sale?activity_enter_method=h5_share&invitation_code=TJHQR4, Talk to AI, he will give you 0.99$ per month for 1 month, get the code.(80Rs)
@@ -11,3 +16,6 @@ Skill
 
 npx skills add https://github.com/firecrawl/cli --skill firecrawl
 https://www.firecrawl.dev/app/api-keys
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bf9d4e50-2bb4-4788-903d-5306f0e594df" />
